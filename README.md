@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Naveen%20Pothineni&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Powerful%20Insights&descAlignY=58&descColor=a0c4ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Naveen%20_Analytics&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Powerful%20Insights&descAlignY=58&descColor=a0c4ff&animation=fadeIn" />
 </div>
 
 <div align="center">
