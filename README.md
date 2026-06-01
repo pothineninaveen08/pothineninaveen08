@@ -101,6 +101,12 @@ Analyze employee data to uncover workforce trends and support HR decision-making
 - Business Analytics
 
 ---
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pothineninaveen08&theme=tokyo-night" />
+</p>
+
 
 ## 📈 GitHub Stats
 
