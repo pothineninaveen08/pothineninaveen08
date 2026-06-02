@@ -1,137 +1,203 @@
 <div align="center">
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Naveen%20Pothineni&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Powerful%20Insights&descAlignY=58&descColor=a0c4ff&animation=fadeIn" />
-</div>
-<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst+in+Progress;SQL+%7C+Python+%7C+Power+BI;Transforming+Data+into+Insights;Learning+Machine+Learning+and+AI" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A192F,35:112240,70:00E5FF,100:64FFDA&text=Naveen%20Pothineni&fontColor=E6F1FF&fontSize=58&fontAlignY=35&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Business%20Intelligence&descColor=64FFDA&descAlignY=55&animation=twinkling" />
+
+</div>
+### Data Analyst | Power BI Developer | SQL Enthusiast | Python Learner
+
+<img align="right" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+
+Transforming Data into Actionable Business Insights.
+
+I help businesses make smarter decisions through data analysis, interactive dashboards, KPI tracking, and business intelligence solutions.
+
+From uncovering trends to building decision-making dashboards, I turn raw data into meaningful business value.
 
 ---
 
 ## 🚀 About Me
 
-📊 Aspiring Data Analyst passionate about turning raw data into meaningful insights.
+🔹 Passionate about Data Analytics & Business Intelligence
 
-🔍 Skilled in data cleaning, analysis, visualization, and dashboard creation.
+🔹 Skilled in SQL, Power BI, Excel, Python
 
-📈 Interested in solving business problems using data-driven decision making.
+🔹 Focused on solving business problems through data
 
-🤖 Currently learning Machine Learning, Artificial Intelligence, and Generative AI.
+🔹 Interested in Analytics, Visualization & Machine Learning
 
-🌱 Building projects to strengthen analytical and problem-solving skills.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 📊 Data Analytics
-
-<p>
-<img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge"/>
-</p>
-
-### 🐍 Programming & Libraries
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
-
-### 🤖 Machine Learning & AI
-
-<p>
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
-</p>
-
-### 📈 Data Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dashboarding-0096D6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Storytelling-FF6F61?style=for-the-badge"/>
-</p>
+🔹 Continuously learning modern data technologies
 
 ---
 
-## 📂 Featured Project
+# 🛠 Tech Stack
 
-### 👨‍💼 HR Analytics Dashboard
+### Data Analysis
 
-**Objective:**
-Analyze employee data to uncover workforce trends and support HR decision-making.
+![SQL](https://img.shields.io/badge/SQL-0A192F?style=for-the-badge\&logo=mysql\&logoColor=00E5FF)
+![Excel](https://img.shields.io/badge/Excel-0A192F?style=for-the-badge\&logo=microsoft-excel\&logoColor=64FFDA)
+![Power BI](https://img.shields.io/badge/Power_BI-0A192F?style=for-the-badge\&logo=powerbi\&logoColor=FFD700)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge\&logo=python\&logoColor=00E5FF)
+
+### Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge\&logo=pandas\&logoColor=64FFDA)
+![NumPy](https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge\&logo=numpy\&logoColor=64FFDA)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge\&logo=python\&logoColor=00E5FF)
+
+### Analytics
+
+📊 Data Visualization
+
+📈 Dashboard Development
+
+📉 KPI Monitoring
+
+📋 Business Reporting
+
+🔍 Exploratory Data Analysis
+
+🤖 Machine Learning Fundamentals
+
+---
+
+# 📊 Analytics Snapshot
+
+| Metric             | Value            |
+| ------------------ | ---------------- |
+| Projects Completed | 3+               |
+| Dashboards Built   | 10+              |
+| Rows Analyzed      | 50,000+          |
+| Approach           | 100% Data-Driven |
+
+---
+
+# 💼 Featured Projects
+
+## 🏏 Cricket Performance Analytics – T20 World Cup
+
+### Tools
+
+Power BI • SQL • Excel
+
+### Business Problem
+
+Analyze player and team performance across matches.
 
 ### Key Insights
 
-✔ Employee Attrition Analysis
+✔ Top-performing players identified
 
-✔ Department-wise Workforce Distribution
+✔ Winning patterns discovered
 
-✔ Gender Diversity Metrics
-
-✔ Employee Performance Analysis
-
-✔ Workforce Demographics
-
-### Tools Used
-
-- SQL
-- Python
-- Power BI
-- Excel
+✔ Match-impact metrics analyzed
 
 ---
 
-## 📚 Currently Learning
+## 👨‍💼 HR Analytics & Attrition Tracking
 
-- Machine Learning for Data Analytics
-- Artificial Intelligence Fundamentals
-- Generative AI Applications
-- Advanced SQL Optimization
-- Business Analytics
+### Tools
+
+Power BI • Excel • SQL
+
+### Business Problem
+
+Understand employee attrition trends and retention challenges.
+
+### Key Insights
+
+✔ Key drivers of attrition identified
+
+✔ Department-wise turnover analyzed
+
+✔ Retention opportunities highlighted
 
 ---
-## 📈 Activity Graph
+
+## 📈 Sales Analytics & KPI Monitoring
+
+### Tools
+
+Power BI • SQL • Excel
+
+### Business Problem
+
+Monitor sales performance and business KPIs.
+
+### Key Insights
+
+✔ Revenue tracking dashboards
+
+✔ Profitability analysis
+
+✔ Regional performance monitoring
+
+---
+
+# 📚 Currently Learning
+
+🌱 Machine Learning for Data Analysts
+
+🌱 Statistical Analysis
+
+🌱 Predictive Analytics
+
+🌱 Advanced Python
+
+🌱 End-to-End Analytics Projects
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pothineninaveen08&theme=tokyo-night" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pothineninaveen08&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pothineninaveen08&layout=compact&theme=tokyonight"/>
+
 </p>
+
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
----
 
-## 🌐 Connect With Me
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pothineninaveen08&theme=tokyonight"/>
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-<h3 align="center">
-📊 Turning Data into Decisions 🚀
-</h3>
-⭐ Star my repos if you find them helpful! ⭐
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+# 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/naveen-pothineni">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/pothineninaveen08">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:naveenpothineni8@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+---
+
+<div align="center">
+
+### "Turning Data Into Decisions"
+
+⭐ If you like my work, consider following my GitHub profile.
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:64FFDA,25:00E5FF,50:233554,75:112240,100:0A192F&text=Thanks%20For%20Visiting&fontColor=E6F1FF&fontSize=35&fontAlignY=60&desc=Let's%20Connect%20and%20Build%20Data-Driven%20Solutions&descColor=64FFDA&descAlignY=80" />
+
 </div>
