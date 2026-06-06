@@ -3,6 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A192F,35:112240,70:00E5FF,100:64FFDA&text=Naveen%20Pothineni&fontColor=E6F1FF&fontSize=58&fontAlignY=35&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Business%20Intelligence&descColor=64FFDA&descAlignY=55&animation=twinkling" />
 
 </div>
+
 ### Data Analyst | Power BI Developer | SQL Enthusiast | Python Learner
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
@@ -46,6 +47,7 @@ From uncovering trends to building decision-making dashboards, I turn raw data i
 ![Pandas](https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge\&logo=pandas\&logoColor=64FFDA)
 ![NumPy](https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge\&logo=numpy\&logoColor=64FFDA)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge\&logo=python\&logoColor=00E5FF)
+![Seaborn](https://img.shields.io/badge/Seaborn-0A192F?style=for-the-badge\&logo=python\&logoColor=64FFDA)
 
 ### Analytics
 
@@ -65,74 +67,124 @@ From uncovering trends to building decision-making dashboards, I turn raw data i
 
 # 📊 Analytics Snapshot
 
-| Metric             | Value            |
-| ------------------ | ---------------- |
-| Projects Completed | 3+               |
-| Dashboards Built   | 10+              |
-| Rows Analyzed      | 50,000+          |
-| Approach           | 100% Data-Driven |
+| Metric             | Value             |
+| ------------------ | ----------------- |
+| Projects Completed | 4+                |
+| Dashboards Built   | 10+               |
+| Rows Analyzed      | 100,000+          |
+| Approach           | 100% Data-Driven  |
 
 ---
 
 # 💼 Featured Projects
 
+---
+
+## 🏥 Hospital Readmission Risk Analysis
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/pothineninaveen08/Hospital-Readmission-Risk-Analysis)
+
+### Tools
+Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
+
+### Business Problem
+Hospital readmissions within 30 days are costly and impact patient outcomes. The goal was to identify key drivers of readmission among diabetic patients and deliver actionable recommendations to reduce unnecessary returns.
+
+### Dataset
+~101,766 rows × 50 columns — Diabetic patient hospital records (UCI)
+
+### Key Insights
+✔ Performed end-to-end EDA on 101,766 diabetic patient records across 50 features
+
+✔ Engineered 5+ features: age groups, diagnosis categories, medication counts, stay length
+
+✔ Built 7+ visualizations (violin, heatmap, scatter, bar, pie) to surface readmission patterns
+
+✔ Circulatory and respiratory disease patients identified as highest-risk cohorts
+
+✔ Shorter hospital stays correlated with higher readmission risk
+
+✔ Delivered actionable discharge and follow-up recommendations consolidated in Excel report
+
+---
+
 ## 🏏 Cricket Performance Analytics – T20 World Cup
 
-### Tools
+[![Repo](https://img.shields.io/badge/GitHub-Repository-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/pothineninaveen08/t20-world-cup-sql-analysis)
 
-Power BI • SQL • Excel
+### Tools
+SQL (MySQL) • Power BI • Excel
 
 ### Business Problem
+Analyze team and match performance across T20 World Cup tournaments to uncover strategic patterns, toss impact, venue influence, and qualification trends.
 
-Analyze player and team performance across matches.
+### Dataset
+Match records across 16 teams — matches, venues, and points table data
 
 ### Key Insights
+✔ Engineered SQL queries using CTEs, JOINs, GROUP BY, CASE statements on 1,000+ match records
 
-✔ Top-performing players identified
+✔ Teams batting first showed higher winning percentages across multiple venues
 
-✔ Winning patterns discovered
+✔ Net Run Rate (NRR) identified as critical tie-breaker in group-stage qualification
 
-✔ Match-impact metrics analyzed
+✔ Knockout-stage analysis revealed consistent teams outperform one-match wonders
+
+✔ Built 5 Power BI dashboards: Toss, Team Performance, Venue, Qualification, Knockout Analysis
+
+✔ Extracted 5 key KPIs: win%, NRR, points, consistency score, venue win rate
 
 ---
 
-## 👨‍💼 HR Analytics & Attrition Tracking
+## 👨‍💼 HR Analytics & Attrition Tracking Dashboard
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/pothineninaveen08/HR-Analytics-Dashboard-PowerBI)
 
 ### Tools
-
-Power BI • Excel • SQL
+Power BI • DAX • Power Query • Advanced Excel
 
 ### Business Problem
+Understand employee attrition trends and retention challenges to help HR teams make data-driven workforce decisions.
 
-Understand employee attrition trends and retention challenges.
+### Dataset
+1,200+ employee records across departments, tenure, and performance metrics
 
 ### Key Insights
+✔ Identified 3 departments accounting for 68% of total attrition
 
-✔ Key drivers of attrition identified
+✔ Built interactive Power BI dashboard with 6 KPI cards: attrition rate, avg tenure, dept breakdown
 
-✔ Department-wise turnover analyzed
+✔ Used Power Query to reduce monthly data preparation time from 2 hours to 20 minutes
 
-✔ Retention opportunities highlighted
+✔ Dynamic slicers and drill-down filters enabled real-time workforce health monitoring
+
+✔ Attrition rate, department trends, and tenure distribution visualized across the organization
 
 ---
 
-## 📈 Sales Analytics & KPI Monitoring
+## 📈 Sales Analytics & KPI Monitoring Dashboard
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/pothineninaveen08/Sales-Performance-Analysis-Excel)
 
 ### Tools
-
-Power BI • SQL • Excel
+Advanced Excel • Pivot Tables • Power Query • VLOOKUP/XLOOKUP • SQL
 
 ### Business Problem
+Monitor sales performance across regions and product categories to evaluate revenue trends, identify top performers, and support inventory planning decisions.
 
-Monitor sales performance and business KPIs.
+### Dataset
+800+ sales transactions across 5 regions
 
 ### Key Insights
+✔ Analyzed 800+ transactions across 5 regions using Excel Pivot Tables and SQL
 
-✔ Revenue tracking dashboards
+✔ Top 5 products contribute ~40% of total revenue — enabling focused inventory planning
 
-✔ Profitability analysis
+✔ Built interactive Excel dashboard with dynamic slicers tracking monthly revenue and regional growth
 
-✔ Regional performance monitoring
+✔ South region identified as most consistent performer quarter-over-quarter
+
+✔ Used VLOOKUP/XLOOKUP, Conditional Formatting, and Power Query for data preparation
 
 ---
 
@@ -149,17 +201,6 @@ Monitor sales performance and business KPIs.
 🌱 End-to-End Analytics Projects
 
 ---
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pothineninaveen08&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pothineninaveen08&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # 🔥 Contribution Activity
